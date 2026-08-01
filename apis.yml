@@ -1,8 +1,31 @@
 aid: rosebud-ai
 name: Rosebud AI
-description: Rosebud AI is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Rosebud AI is an AI-powered game creation platform that lets anyone build and
+  deploy playable 3D games and interactive worlds from natural-language prompts,
+  a workflow the company calls "Vibe Coding" — you describe scenes, rules, and
+  behaviors and an AI assistant named "Rosie" writes and applies the underlying
+  JavaScript. The platform runs on a custom engine designed for AI-era game
+  development, featuring deterministic WASM-based physics, native real-time
+  multiplayer, instant link-based sharing, and a built-in "Juice API" for camera
+  effects, particle systems, and spatial audio. Founded in 2019 in San Francisco
+  by CEO Lisha Li (Ph.D. in machine learning, UC Berkeley), Rosebud AI is backed
+  by a16z. As of this enrichment pass the company ships a hosted consumer product
+  and publishes no public developer API, OpenAPI/AsyncAPI specification, SDK
+  packages, MCP server, or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/rosebud-ai/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://rosebud.ai/_next/static/media/rosebud-og-img.1yqlqo5pvhv8-.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +34,42 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- Game Development
+- Game Creation
+- No-Code
+- Vibe Coding
+- Generative AI
+- Multiplayer
+- Consumer
 apis: []
+common:
+- type: Website
+  url: https://rosebud.ai/
+- type: Blog
+  url: https://lab.rosebud.ai/blog
+- type: Pricing
+  url: https://rosebud.ai/pricing
+- type: About
+  url: https://lab.rosebud.ai/company
+- type: Support
+  url: https://discord.com/invite/rosebud-ai
+- type: TermsOfService
+  url: https://lab.rosebud.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://lab.rosebud.ai/privacy-policy
+- type: Engineering
+  url: https://rosebud.ai/engineering
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1

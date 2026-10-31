@@ -64,6 +64,74 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rosebud AI is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Rosebud AI is an AI-powered game creation platform that lets anyone build and deploy playable 3D games and interactive worlds from natural-language prompts, a workflow the company calls "Vibe Coding" — you describe scenes, rules, and behaviors and an AI assistant named "Rosie" writes and applies the underlying JavaScript. The platform runs on a custom engine designed for AI-era game development, featuring deterministic WASM-based physics, native real-time multiplayer, instant link-based sharing, and a built-in "Juice API" for camera effects, particle systems, and spatial audio. Founded in 2019 in San Francisco by CEO Lisha Li (Ph.D. in machine learning, UC Berkeley), Rosebud AI is backed by a16z. As of this enrichment pass the company ships a hosted consumer product and publishes no public developer API, OpenAPI/AsyncAPI specification, SDK packages, MCP server, or developer portal.
 
-Backed by: a16z
+**Areas:** Company · Artificial Intelligence · Game Development · Game Creation · No-Code · Vibe Coding · Generative AI · Multiplayer · Consumer
+
+## Rosebud AI on APIs.io
+
+Everything profiled for Rosebud AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rosebud-ai/](https://apis.io/providers/rosebud-ai/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rosebud.ai/)
+- [Pricing](https://rosebud.ai/pricing)
+- [Support](https://discord.com/invite/rosebud-ai)
+- [Blog](https://lab.rosebud.ai/blog)
+- [Terms of service](https://lab.rosebud.ai/terms-of-service)
+- [Privacy policy](https://lab.rosebud.ai/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.3** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rosebud-ai/](https://apis.io/providers/rosebud-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rosebud AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rosebud-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
